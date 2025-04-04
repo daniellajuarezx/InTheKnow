@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InTheKnow/static/css/main.07b87913.css",
+    "main.js": "/InTheKnow/static/js/main.b83635e0.js",
+    "static/js/453.95dc48e3.chunk.js": "/InTheKnow/static/js/453.95dc48e3.chunk.js",
+    "index.html": "/InTheKnow/index.html",
+    "main.07b87913.css.map": "/InTheKnow/static/css/main.07b87913.css.map",
+    "main.b83635e0.js.map": "/InTheKnow/static/js/main.b83635e0.js.map",
+    "453.95dc48e3.chunk.js.map": "/InTheKnow/static/js/453.95dc48e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07b87913.css",
+    "static/js/main.b83635e0.js"
+  ]
+}
