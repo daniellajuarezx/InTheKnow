@@ -1,0 +1,23 @@
+server{background-color: black}
+div {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #39FF14;
+    border-radius: 90px;
+    animation: run ease-out forwards;
+    position: relative;
+    animation-duration: 4s;
+    font-size: 24px;
+  }
+  
+  @keyframes run {
+    from {left: 0px;
+  background-color: #39FF14;
+    }
+    to {left: 300px;
+    background-color: #FFF700;
+    }
+  }
