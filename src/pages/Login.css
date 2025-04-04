@@ -1,0 +1,9 @@
+.loginpopup{
+    outline-style: solid;
+    border-style: outset;
+    padding: 25px 50px;
+    justify-content: center;
+    height: 180px;
+    width: 280px;
+    margin: auto;
+}

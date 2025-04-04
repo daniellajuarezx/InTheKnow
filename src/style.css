@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: white;
+}
+ul{
+    background-color: beige;
+    padding: 15px;
+}
+.navbar{
+    display: inline;
+}
