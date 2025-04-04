@@ -15,7 +15,7 @@ export default function App() {
   }
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/InTheKnow'>
       <Routes>
         {}
         <Route path="/" element={<Layout />}>
